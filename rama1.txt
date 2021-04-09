@@ -1,0 +1,2 @@
+Estoy escribiendo contenido en el primer archivo de mi nueva rama 'mirama' del ejercicio 10
+
